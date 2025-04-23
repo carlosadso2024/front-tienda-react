@@ -1,5 +1,7 @@
 import React, { useState } from 'react';
 import ProductCard from './ProductCard';
+import smartPhoneImage from '../assets/images/smartphone.jpg';
+import laptopImage from '../assets/images/laptop.jpg';
 import './Products.css';
 
 function Products() {
@@ -9,7 +11,7 @@ function Products() {
       name: "Smartphone XYZ",
       price: 599.99,
       description: "Último modelo con cámara de alta resolución",
-      image: "/images/smartphone.png",
+      image: smartPhoneImage,
       category: "Electrónica"
     },
     {
@@ -17,7 +19,7 @@ function Products() {
       name: "Laptop Pro",
       price: 1299.99,
       description: "Potente laptop para profesionales",
-      image: "/images/laptop.png",
+      image: laptopImage,
       category: "Computadoras"
     },
     // Añade más productos aquí

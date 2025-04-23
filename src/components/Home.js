@@ -1,15 +1,18 @@
 import React from 'react';
+import ProductCard from '../components/ProductCard';
+import smartPhoneImage from '../assets/images/smartphone.jpg';
 import './Home.css';
 
 function Home() {
   const featuredProducts = [
     {
       id: 1,
-      name: "Producto 1",
-      price: 99.99,
-      image: "url-imagen-1"
-    },
-    // Añade más productos
+      name: "Smartphone XYZ",
+      price: 599.99,
+      description: "Último modelo con cámara de alta resolución",
+      image: smartPhoneImage,
+      category: "Electrónica"
+    }
   ];
 
   return (
@@ -23,12 +26,7 @@ function Home() {
         <h2>Productos Destacados</h2>
         <div className="products-grid">
           {featuredProducts.map(product => (
-            <div key={product.id} className="product-card">
-              <img src={product.image} alt={product.name} />
-              <h3>{product.name}</h3>
-              <p>${product.price}</p>
-              <button>Añadir al carrito</button>
-            </div>
+            <ProductCard key={product.id} product={product} />
           ))}
         </div>
       </section>
