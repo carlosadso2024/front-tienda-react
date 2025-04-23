@@ -9,7 +9,7 @@ function Products() {
       name: "Smartphone XYZ",
       price: 599.99,
       description: "Último modelo con cámara de alta resolución",
-      image: "/assets/images/smartphone.jpg",
+      image: "/images/smartphone.png",
       category: "Electrónica"
     },
     {
@@ -17,7 +17,7 @@ function Products() {
       name: "Laptop Pro",
       price: 1299.99,
       description: "Potente laptop para profesionales",
-      image: "/assets/images/laptop.jpg",
+      image: "/images/laptop.png",
       category: "Computadoras"
     },
     // Añade más productos aquí
