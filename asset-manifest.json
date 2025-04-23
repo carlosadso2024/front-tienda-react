@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.4f607c9e.css",
-    "main.js": "/static/js/main.92f216b7.js",
-    "static/js/453.62bed383.chunk.js": "/static/js/453.62bed383.chunk.js",
-    "index.html": "/index.html",
-    "main.4f607c9e.css.map": "/static/css/main.4f607c9e.css.map",
-    "main.92f216b7.js.map": "/static/js/main.92f216b7.js.map",
-    "453.62bed383.chunk.js.map": "/static/js/453.62bed383.chunk.js.map"
+    "main.css": "https://github.com/carlosadso2024/front-tienda-react.git/static/css/main.4f607c9e.css",
+    "main.js": "https://github.com/carlosadso2024/front-tienda-react.git/static/js/main.756eebe3.js",
+    "index.html": "https://github.com/carlosadso2024/front-tienda-react.git/index.html",
+    "main.4f607c9e.css.map": "https://github.com/carlosadso2024/front-tienda-react.git/static/css/main.4f607c9e.css.map",
+    "main.756eebe3.js.map": "https://github.com/carlosadso2024/front-tienda-react.git/static/js/main.756eebe3.js.map"
   },
   "entrypoints": [
     "static/css/main.4f607c9e.css",
-    "static/js/main.92f216b7.js"
+    "static/js/main.756eebe3.js"
   ]
 }
