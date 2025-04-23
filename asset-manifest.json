@@ -1,11 +1,13 @@
 {
   "files": {
-    "main.css": "/front-tienda-react/static/css/main.c0bf3c6b.css",
-    "main.js": "/front-tienda-react/static/js/main.bb915387.js",
+    "main.css": "/front-tienda-react/static/css/main.877b69dd.css",
+    "main.js": "/front-tienda-react/static/js/main.5fd026bb.js",
+    "static/media/laptop.jpg": "/front-tienda-react/static/media/laptop.84cbb7c1716bfe6d54cf.jpg",
+    "static/media/smartphone.jpg": "/front-tienda-react/static/media/smartphone.e86553690ac15ba5bdef.jpg",
     "index.html": "/front-tienda-react/index.html"
   },
   "entrypoints": [
-    "static/css/main.c0bf3c6b.css",
-    "static/js/main.bb915387.js"
+    "static/css/main.877b69dd.css",
+    "static/js/main.5fd026bb.js"
   ]
 }
