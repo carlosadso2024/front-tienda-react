@@ -2,7 +2,7 @@
   "name": "tu-tienda-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/carlosadso2024/front-tienda-react.git",
+  "homepage": "https://carlosadso2024.github.io/front-tienda-react",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
@@ -16,8 +16,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "deploy": "npm run build && gh-pages -d build",
     "start": "react-scripts start",
+    "deploy": "npm run build && gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
