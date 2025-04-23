@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/front-tienda-react/static/css/main.c0bf3c6b.css",
-    "main.js": "/front-tienda-react/static/js/main.9c25bc5f.js",
+    "main.js": "/front-tienda-react/static/js/main.bb915387.js",
     "index.html": "/front-tienda-react/index.html"
   },
   "entrypoints": [
     "static/css/main.c0bf3c6b.css",
-    "static/js/main.9c25bc5f.js"
+    "static/js/main.bb915387.js"
   ]
 }
